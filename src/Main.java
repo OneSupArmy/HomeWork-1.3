@@ -1,4 +1,5 @@
 public class Main {
+    //Опять забыл что мы делаем все в бранчах, постоянно вместо пулл реквеста просто пушу мастер ветку
     public static void main(String[] args) {
         //Задача 1
         int thisIsInt = 888;
